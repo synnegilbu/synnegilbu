@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @synnegilbu
+- 👋 Hi, I’m Synne Gilbu
 
 
 <!---
